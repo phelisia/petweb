@@ -1,0 +1,256 @@
+body{
+    background-color: #C1C4D9;
+    /* display: flex; */
+    /* align-items: center;  */
+    /* justify-content: center;
+     */
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+  }
+  
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
+  }
+  h6{
+      font-size: 15px;
+      margin-left: 9%;
+      color:rgb(104, 104, 251);
+  }
+  h5{
+    font-size: 18px;
+  }
+  
+.boxone{
+    width: 1200px;
+    height: 550px;
+    background-color:#E9FAFC ;
+    align-items: center;
+    color: black;
+    padding: 20px;
+    margin-left: 5%;
+    margin-top: 3%;
+
+
+}
+.info{
+    margin-left: 9%;
+}
+h1{
+    margin-left: 9%;
+}
+ .info span{
+    color: #F24C27;
+    font-size: 20px;
+ }
+ .circle{
+    border:  solid rgb(164, 191, 193);
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    border-width: 25px;
+    border-bottom: center;
+    /* background-color: rgb(203, 228, 250);  */
+    margin-left: 50%;
+    margin-top: -10%;
+    
+  } 
+  .Box2{
+    width: 1200px;
+    height: 550px;
+    background-color:#FFFFFF ;
+    align-items: center;
+    color: black;
+    align-items: center;
+    color: black;
+    padding: 20px;
+    margin-left: 5%;
+  
+}
+.do h1{
+  margin-bottom: 2%;
+}
+.do header{
+  float: right;
+  margin-top: 2%;
+  margin-right: 7%;
+}
+
+.serve{
+  float: right;
+  font-size: 18px;
+}
+.cards{
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+
+}
+.cards1{
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+
+}
+.cards2{
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  
+}
+.card3{
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    
+  }
+
+
+
+.radione{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center;
+  height: auto;
+  max-width: 100%;
+
+}
+.ambulance{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center
+
+}
+.dentalcare{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center
+
+}
+.parturiton{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center
+
+}
+.pethostel{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center
+
+}
+.surgical{
+  width: 300px;
+  height: 200px;
+  background-color: #E9FAFC;
+  border-radius: 5px;
+  text-align: center
+
+}
+.hosicons{
+  display: flex;
+  background-color: #E9FAFC;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+  justify-content: center;
+}
+.Box3{
+  width: 1200px;
+  height: 550px;
+  background-color:#E9FAFC ;
+  align-items: center;
+  color: black;
+  align-items: center;
+  padding: 20px;
+  margin-left: 5%;
+
+}
+.info2{
+  margin-left: 50%;
+  margin-top: 7%;
+}
+.info button{
+  border-radius: 10%;
+}
+.image{
+  margin-left: 10%;
+  margin-bottom: 100%;
+}
+.Box4{
+  width: 1200px;
+  height: 550px;
+  background-color:#FFFFFF ;
+  align-items: center;
+  color: black;
+  align-items: center;
+  padding: 20px;
+  margin-left: 5%;
+}
+.info3  header{
+  float: right;
+  /* margin-right: 7%; */
+}
+.info3 h1{
+  margin-bottom: 3%;
+}
+.cards1{
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+
+}
+.cards1{
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+
+}
+.Box5{
+  width: 1200px;
+height: 400px;
+background-color:#FFFFFF;
+align-items: center;
+color: black;
+padding: 20px;
+margin-left: 5%;
+}
